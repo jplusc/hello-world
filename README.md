@@ -1,2 +1,2 @@
-# hello-world
-github guide, noob alert
+hello-world
+github guide, *noob* alert
